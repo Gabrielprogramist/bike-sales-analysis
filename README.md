@@ -1,0 +1,2 @@
+# bike-sales-analysis
+ Comprehensive an aly sis o f t h e bik e m a r k e t u sin g P o w e r BI t o ols. This report not only reveals key aspects o f t h e c o m p a n y's bik e s ale s, b u t als o p r o vid e s in-depth analysis of customer preferences, sales seasonality and financial performance. We delve into the intricacies of the bike market, assessing its current state and potential growth opportunities. 
