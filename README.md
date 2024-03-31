@@ -7,11 +7,13 @@ in-depth analysis of customer preferences,
 sales seasonality and financial
 performance. We delve into the intricacies
 of the bike market, assessing its current
-state and potential growth opportunities.
+state and potential growth opportunities. <br>
+
 I used python code(matplotlib, seaborn, pandas) in analyze_data.ipynb for understanding the structure of the dataset.(also we cleaned dataset)
 
-Kaggle: https://www.kaggle.com/code/sadiqshah/bike-store-sales-in-europe/input
-Information about dataset in Russian:
+Kaggle: https://www.kaggle.com/code/sadiqshah/bike-store-sales-in-europe/input  <br>
+Information about dataset in Russian: <br>
+
 Датасет включает в себя следующие столбцы:
 1.	Date: Дата совершения продажи.
 2.	Day: День месяца.
